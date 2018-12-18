@@ -14,6 +14,7 @@ import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
 
 /**
+ * added commit  in master
  * @author Jimmy
  * Created on 17/12/18.
  */
