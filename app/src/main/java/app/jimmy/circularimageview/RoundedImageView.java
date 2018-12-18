@@ -17,6 +17,7 @@ import com.squareup.picasso.Target;
  * added commit  in master
  * @author Jimmy
  * Created on 17/12/18.
+ * made commit in test
  */
 class RoundedImageView extends View implements Target {
 
